@@ -28,4 +28,4 @@ I'll port the library to Java for my adlib-jvm-projects project once this versio
 
 Fun fact: I used the Dutch "Werken Met De Sound Blaster" book, by Josha Munnik and Eric Oostendorp (both of UltraForce fame), published by Sybex in 1992, extensively while developing this library. I got this book as a birthday present in e early '90s when I got my first sound card. Directly programming the FM chip proved to be a little bit too complex to my young brains back then, but that did not stop me from driving the FM chip with the various MS-DOS TSR drivers, using Turbo Pascal. I loved the book so much I always kept it in my bookshelves all those years.
 
-So I'd like to thank Dhr Baksteen for creating the awesome OPL2 board (glad there are many more Yamaha YM3812 and Ad Lib Inc. fans around) and Josha Munnik and Erik Oostendorp for a book they wrote very long ago.
+So I'd like to thank Dhr Baksteen for creating the awesome OPL2 board (glad there are many more Yamaha YM3812 and Ad Lib Inc. fans around) and Josha Munnik and Eric Oostendorp for a book they wrote very long ago.
